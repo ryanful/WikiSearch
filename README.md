@@ -14,5 +14,5 @@ topic & summary.
 ## To Run:
 
 Run the following command in terminal
-| python3 wiki_search.py input
+[ python3 wiki_search.py input ]
 input can be any string
